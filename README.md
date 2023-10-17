@@ -12,4 +12,4 @@
 6. What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
     - A few resources I believe will be beneficial in future projects are Snyk, maven dependency check, cipher algorithms, and also the vulnerability process flow diagram. <br />
 7. Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?<br />
-    -From this assignment I might show future employers my ability to complete security reports and also my ability to create certificates and cipher algorithms.<br />
+    - From this assignment I might show future employers my ability to complete security reports and also my ability to create certificates and cipher algorithms.<br />
