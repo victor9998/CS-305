@@ -1,5 +1,5 @@
 # CS-305
--Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address? <br />
+- Item 1 Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address? <br />
     -Artemis Financial is a consulting company that wanted to protect their client’s information by using a checksum. Since they handle customers’ money, security is a top priority. It is important that the software is always up to date and that all vulnerabilities are found and fixed. <br />
 What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?<br />
 It's important to code securely because software security adds an extra layer of protection to a company's overall wellbeing. It's also important to make security a top priority early in the software development lifecycle to prevent future vulnerabilities. Hackers are constantly looking for information to steal; therefore, secure coding and testing is very important. I feel I did very well at finding and documenting the vulnerabilities that were crucial. <br />
